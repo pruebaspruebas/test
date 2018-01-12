@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //comentario del V1
-        //Subo al repo github
-        //INTENTO SUBIR UN CAMBIO SIN ACTUALIZAR PRIMERO
+        //CAMBIO COSAS EN LOCAL PARA DESPUES SUBIR A GITHUB
     }
 }
