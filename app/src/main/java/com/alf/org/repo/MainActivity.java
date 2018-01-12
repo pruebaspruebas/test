@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         //master ......
         //nuevo cambio
+        //nuevo cambio 2
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //comentario del V1
